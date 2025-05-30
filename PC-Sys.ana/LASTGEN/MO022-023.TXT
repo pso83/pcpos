@@ -1,0 +1,149 @@
+//MO022-023.TXT ANA00022 TO ANA00023
+Claviers_Bas		TAR	629	nouvelle taille enregistrement : 629
+Claviers_Bas		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Claviers_Bas		FCNX+	pc_sys_mysql	
+Tickets		TAR	461	nouvelle taille enregistrement : 461
+Tickets		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Tickets		FCNX+	pc_sys_mysql	
+Ligne_Ticket		TAR	496	nouvelle taille enregistrement : 496
+Ligne_Ticket		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Ligne_Ticket		FCNX+	pc_sys_mysql	
+Cloture		TAR	29	nouvelle taille enregistrement : 29
+Cloture		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Cloture		FCNX+	pc_sys_mysql	
+Liste_Claviers_CB		TAR	221	nouvelle taille enregistrement : 221
+Liste_Claviers_CB		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Liste_Claviers_CB		FCNX+	pc_sys_mysql	
+Articles		TAR	370	nouvelle taille enregistrement : 370
+Articles		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Articles		FCNX+	pc_sys_mysql	
+Groupes_Article		TAR	63	nouvelle taille enregistrement : 63
+Groupes_Article		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Groupes_Article		FCNX+	pc_sys_mysql	
+Familles_Article		TAR	63	nouvelle taille enregistrement : 63
+Familles_Article		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Familles_Article		FCNX+	pc_sys_mysql	
+SousFamille_Article		TAR	63	nouvelle taille enregistrement : 63
+SousFamille_Article		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+SousFamille_Article		FCNX+	pc_sys_mysql	
+TVA		TAR	104	nouvelle taille enregistrement : 104
+TVA		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+TVA		FCNX+	pc_sys_mysql	
+Menus		TAR	67	nouvelle taille enregistrement : 67
+Menus		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Menus		FCNX+	pc_sys_mysql	
+Pages_Menus		TAR	118	nouvelle taille enregistrement : 118
+Pages_Menus		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Pages_Menus		FCNX+	pc_sys_mysql	
+Fidelite		TAR	151	nouvelle taille enregistrement : 151
+Fidelite		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Fidelite		FCNX+	pc_sys_mysql	
+Formules		TAR	63	nouvelle taille enregistrement : 63
+Formules		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Formules		FCNX+	pc_sys_mysql	
+Composition_Formules		TAR	126	nouvelle taille enregistrement : 126
+Composition_Formules		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Composition_Formules		FCNX+	pc_sys_mysql	
+Config_TexteElements		TAR	311	nouvelle taille enregistrement : 311
+Config_TexteElements		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Config_TexteElements		FCNX+	pc_sys_mysql	
+Fonctions		TAR	165	nouvelle taille enregistrement : 165
+Fonctions		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Fonctions		FCNX+	pc_sys_mysql	
+Claviers_Hauts		TAR	629	nouvelle taille enregistrement : 629
+Claviers_Hauts		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Claviers_Hauts		FCNX+	pc_sys_mysql	
+Liste_Claviers_CH		TAR	221	nouvelle taille enregistrement : 221
+Liste_Claviers_CH		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Liste_Claviers_CH		FCNX+	pc_sys_mysql	
+Liste_Claviers_Com		TAR	221	nouvelle taille enregistrement : 221
+Liste_Claviers_Com		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Liste_Claviers_Com		FCNX+	pc_sys_mysql	
+Liste_Claviers_Menu		TAR	221	nouvelle taille enregistrement : 221
+Liste_Claviers_Menu		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Liste_Claviers_Menu		FCNX+	pc_sys_mysql	
+Profils		TAR	106	nouvelle taille enregistrement : 106
+Profils		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Profils		FCNX+	pc_sys_mysql	
+Commentaires		TAR	67	nouvelle taille enregistrement : 67
+Commentaires		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Commentaires		FCNX+	pc_sys_mysql	
+Claviers_Com		TAR	503	nouvelle taille enregistrement : 503
+Claviers_Com		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Claviers_Com		FCNX+	pc_sys_mysql	
+Claviers_Menu		TAR	503	nouvelle taille enregistrement : 503
+Claviers_Menu		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Claviers_Menu		FCNX+	pc_sys_mysql	
+Style_Boutons		TAR	252	nouvelle taille enregistrement : 252
+Style_Boutons		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Style_Boutons		FCNX+	pc_sys_mysql	
+Articles_Fidelite		TAR	118	nouvelle taille enregistrement : 118
+Articles_Fidelite		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Articles_Fidelite		FCNX+	pc_sys_mysql	
+Affichage_Tampons_Fidelite		TAR	21	nouvelle taille enregistrement : 21
+Affichage_Tampons_Fidelite		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Affichage_Tampons_Fidelite		FCNX+	pc_sys_mysql	
+Configuration		TAR	286	nouvelle taille enregistrement : 286
+Configuration		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Configuration		FCNX+	pc_sys_mysql	
+Modes_Fonction		TAR	390	nouvelle taille enregistrement : 390
+Modes_Fonction		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Modes_Fonction		FCNX+	pc_sys_mysql	
+Parametres_Applications		TAR	390	nouvelle taille enregistrement : 390
+Parametres_Applications		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Parametres_Applications		FCNX+	pc_sys_mysql	
+Versionnage		TAR	110	nouvelle taille enregistrement : 110
+Versionnage		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Versionnage		FCNX+	pc_sys_mysql	
+Super_Utilisateurs		TAR	20	nouvelle taille enregistrement : 20
+Super_Utilisateurs		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Super_Utilisateurs		FCNX+	pc_sys_mysql	
+Parametres_Connexion_db		TAR	216	nouvelle taille enregistrement : 216
+Parametres_Connexion_db		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Parametres_Connexion_db		FCNX+	pc_sys_mysql	
+Memoire_Elements		TAR	61	nouvelle taille enregistrement : 61
+Memoire_Elements		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Memoire_Elements		FCNX+	pc_sys_mysql	
+Utilisateurs		TAR	531	nouvelle taille enregistrement : 531
+Utilisateurs		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Utilisateurs		FCNX+	pc_sys_mysql	
+Info_Licence		TAR	1733	nouvelle taille enregistrement : 1733
+Info_Licence		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Info_Licence		FCNX+	pc_sys_mysql	
+Fiches_Produit		TAR	476	nouvelle taille enregistrement : 476
+Fiches_Produit		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Fiches_Produit		FCNX+	pc_sys_mysql	
+Categories		TAR	59	nouvelle taille enregistrement : 59
+Categories		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Categories		FCNX+	pc_sys_mysql	
+SousFamilles		TAR	59	nouvelle taille enregistrement : 59
+SousFamilles		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+SousFamilles		FCNX+	pc_sys_mysql	
+Lieux_Stockage		TAR	109	nouvelle taille enregistrement : 109
+Lieux_Stockage		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Lieux_Stockage		FCNX+	pc_sys_mysql	
+Familles		TAR	59	nouvelle taille enregistrement : 59
+Familles		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Familles		FCNX+	pc_sys_mysql	
+Produits		TAR	525	nouvelle taille enregistrement : 525
+Produits		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Produits		FCNX+	pc_sys_mysql	
+Groupes		TAR	59	nouvelle taille enregistrement : 59
+Groupes		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Groupes		FCNX+	pc_sys_mysql	
+Fournisseurs		TAR	474	nouvelle taille enregistrement : 474
+Fournisseurs		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Fournisseurs		FCNX+	pc_sys_mysql	
+Contenances		TAR	59	nouvelle taille enregistrement : 59
+Contenances		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Contenances		FCNX+	pc_sys_mysql	
+Fiche_Recette		TAR	216	nouvelle taille enregistrement : 216
+Fiche_Recette		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Fiche_Recette		FCNX+	pc_sys_mysql	
+Salles_Autorisees		TAR	110	nouvelle taille enregistrement : 110
+Salles_Autorisees		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Salles_Autorisees		FCNX+	pc_sys_mysql	
+Salles		TAR	161	nouvelle taille enregistrement : 161
+Salles		TYPE		Le type du fichier est passé de HFSQL à Connecteur Natif / Autre Connecteur OLE DB
+Salles		FCNX+	pc_sys_mysql	
+pc_sys_mysql		CNX+		

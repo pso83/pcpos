@@ -1,0 +1,9 @@
+//MO031-032.TXT ANA00031 TO ANA00032
+Claviers_Droites		NNF*	Claviers_Bas	nouveau nom Claviers_Droites
+Claviers_Droites	IDClaviers_Droite	NNR	IDClaviers_Bas	ATTENTION : la clé IDClaviers_Bas a pour nouveau nom IDClaviers_Droite
+Liste_Claviers_CD		NNF*	Liste_Claviers_CB	nouveau nom Liste_Claviers_CD
+Liste_Claviers_CD	IDListe_Claviers_CD	NNR	IDListe_Claviers_CB	ATTENTION : la clé IDListe_Claviers_CB a pour nouveau nom IDListe_Claviers_CD
+Claviers_Gauches		NNF*	Claviers_Hauts	nouveau nom Claviers_Gauches
+Claviers_Gauches	IDClaviers_Gauche	NNR	IDClaviers_Haut	ATTENTION : la clé IDClaviers_Haut a pour nouveau nom IDClaviers_Gauche
+Liste_Claviers_CG		NNF*	Liste_Claviers_CH	nouveau nom Liste_Claviers_CG
+Liste_Claviers_CG	IDListe_Claviers_CG	NNR	IDListe_Claviers_CH	ATTENTION : la clé IDListe_Claviers_CH a pour nouveau nom IDListe_Claviers_CG

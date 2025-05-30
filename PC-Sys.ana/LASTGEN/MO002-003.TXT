@@ -1,0 +1,65 @@
+//MO002-003.TXT ANA00002 TO ANA00003
+Claviers_Bas		NFI		nouveau fichier
+Tickets		NFI		nouveau fichier
+Ligne_Ticket		NFI		nouveau fichier
+Cloture		NFI		nouveau fichier
+Liste_Claviers_CB		NFI		nouveau fichier
+Articles		NFI		nouveau fichier
+Groupes_Article		NFI		nouveau fichier
+Familles_Article		NFI		nouveau fichier
+SousFamille_Article		NFI		nouveau fichier
+TVA		NFI		nouveau fichier
+Menus		NFI		nouveau fichier
+Pages_Menus		NFI		nouveau fichier
+Fidelite		NFI		nouveau fichier
+Formules		NFI		nouveau fichier
+Composition_Formules		NFI		nouveau fichier
+Config_TexteElements		NFI		nouveau fichier
+Fonctions		NFI		nouveau fichier
+Claviers_Hauts		NFI		nouveau fichier
+Liste_Claviers_CH		NFI		nouveau fichier
+Liste_Claviers_Com		NFI		nouveau fichier
+Liste_Claviers_Menu		NFI		nouveau fichier
+Profils		NFI		nouveau fichier
+Commentaires		NFI		nouveau fichier
+Claviers_Com		NFI		nouveau fichier
+Claviers_Menu		NFI		nouveau fichier
+Style_Boutons		NFI		nouveau fichier
+Articles_Fidelite		NFI		nouveau fichier
+Affichage_Tampons_Fidelite		NFI		nouveau fichier
+Configuration		NFI		nouveau fichier
+Claviers_Bas		FIC-	Claviers_Bas	Fichier supprimé Claviers_Bas
+Contrainte_Tickets_Ligne_Ticket		NWL	Tickets (Num_Ticket) et Ligne_Ticket (Num_Ticket)	Nouvelle liaison entre les fichiers Tickets (Num_Ticket) et Ligne_Ticket (Num_Ticket)
+Contrainte_Menus_Pages_Menus		NWL	Menus (Code_Menu) et Pages_Menus (Code_Menu)	Nouvelle liaison entre les fichiers Menus (Code_Menu) et Pages_Menus (Code_Menu)
+Contrainte_Formules_Composition_Formules		NWL	Formules (Code_Formule) et Composition_Formules (Code_Formule)	Nouvelle liaison entre les fichiers Formules (Code_Formule) et Composition_Formules (Code_Formule)
+Contrainte_Fidelite_Articles_Fidelite		NWL	Fidelite (CodeFid) et Articles_Fidelite (Code_Fid)	Nouvelle liaison entre les fichiers Fidelite (CodeFid) et Articles_Fidelite (Code_Fid)
+pcs		CNX+		
+Connexion à '127.0.0.1'		CNX+		
+Tickets		FRN		
+Ligne_Ticket		FRN		
+Cloture		FRN		
+Claviers_Bas		FRN		
+Liste_Claviers_CB		FRN		
+Articles		FRN		
+Groupes_Article		FRN		
+Familles_Article		FRN		
+SousFamille_Article		FRN		
+TVA		FRN		
+Menus		FRN		
+Pages_Menus		FRN		
+Fidelite		FRN		
+Formules		FRN		
+Composition_Formules		FRN		
+Config_TexteElements		FRN		
+Fonctions		FRN		
+Claviers_Hauts		FRN		
+Liste_Claviers_CH		FRN		
+Liste_Claviers_Com		FRN		
+Liste_Claviers_Menu		FRN		
+Profils		FRN		
+Commentaires		FRN		
+Claviers_Com		FRN		
+Claviers_Menu		FRN		
+Style_Boutons		FRN		
+Articles_Fidelite		FRN		
+Affichage_Tampons_Fidelite		FRN		

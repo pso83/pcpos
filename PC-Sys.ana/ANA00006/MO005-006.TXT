@@ -1,0 +1,25 @@
+//MO005-006.TXT ANA00005 TO ANA00006
+Fiches_Produit		NFI		nouveau fichier
+Categories		NFI		nouveau fichier
+SousFamilles		NFI		nouveau fichier
+Lieux_Stockage		NFI		nouveau fichier
+Familles		NFI		nouveau fichier
+Produits		NFI		nouveau fichier
+Groupes		NFI		nouveau fichier
+Fournisseurs		NFI		nouveau fichier
+Contenances		NFI		nouveau fichier
+Fiche_Recette		NFI		nouveau fichier
+Contrainte_Familles_Produits		NWL	Familles (Nom_Familles) et Produits (Famille_Produit)	Nouvelle liaison entre les fichiers Familles (Nom_Familles) et Produits (Famille_Produit)
+Contrainte_SousFamilles_Produits		NWL	SousFamilles (Nom_SousFamille) et Produits (SousFamille_Produit)	Nouvelle liaison entre les fichiers SousFamilles (Nom_SousFamille) et Produits (SousFamille_Produit)
+Contrainte_Groupes_Produits		NWL	Groupes (Nom_Groupe) et Produits (Groupe_Produit)	Nouvelle liaison entre les fichiers Groupes (Nom_Groupe) et Produits (Groupe_Produit)
+Contrainte_Categories_Produits		NWL	Categories (Nom_Categorie) et Produits (Categorie_Produit)	Nouvelle liaison entre les fichiers Categories (Nom_Categorie) et Produits (Categorie_Produit)
+Contrainte_Lieux_Stockage_Produits		NWL	Lieux_Stockage (Designation_LieuxStockage) et Produits (Lieux_Stockage)	Nouvelle liaison entre les fichiers Lieux_Stockage (Designation_LieuxStockage) et Produits (Lieux_Stockage)
+Fiches_Produit		FRN		
+Categories		FRN		
+SousFamilles		FRN		
+Familles		FRN		
+Produits		FRN		
+Groupes		FRN		
+Fournisseurs		FRN		
+Contenances		FRN		
+Fiche_Recette		FRN		

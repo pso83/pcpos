@@ -1,0 +1,10 @@
+//MO001-002.TXT ANA00001 TO ANA00002
+Claviers_Bas		TAR	688	nouvelle taille enregistrement : 688
+Claviers_Bas	Num_Clavier	CLEN*		la rubrique Num_Clavier est maintenant une clé
+Claviers_Bas	Nom_Clavier	CLEN*		la rubrique Nom_Clavier est maintenant une clé
+Claviers_Bas	Num_Btn	CLEN*		la rubrique Num_Btn est maintenant une clé
+Claviers_Bas	Libelle_Btn	CLEN*		la rubrique Libelle_Btn est maintenant une clé
+Claviers_Bas	Type_Btn	CLEN*		la rubrique Type_Btn est maintenant une clé
+Claviers_Bas	Num_Element	CLEN*		la rubrique Num_Element est maintenant une clé
+Claviers_Bas	Nom_Btn	CLEN*		la rubrique Nom_Btn est maintenant une clé
+Claviers_Bas	Nom_Btn	TAI-	51	la rubrique Nom_Btn a comme nouvelle taille 0 au lieu de 51

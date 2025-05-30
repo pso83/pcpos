@@ -1,0 +1,5 @@
+//MO024-025.TXT ANA00024 TO ANA00025
+Profils		TAR	109	nouvelle taille enregistrement : 109
+Profils	Autorise_Modif_Stock	RUB+		Autorise_Modif_Stock est une nouvelle rubrique
+Profils	Autorise_Saisie_Inventaire	RUB+		Autorise_Saisie_Inventaire est une nouvelle rubrique
+Profils	Autorise_Creation_FicheStock	RUB+		Autorise_Creation_FicheStock est une nouvelle rubrique

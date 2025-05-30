@@ -1,0 +1,9 @@
+//MO007-008.TXT ANA00007 TO ANA00008
+Claviers_Bas		TAR	782	nouvelle taille enregistrement : 782
+Claviers_Bas	Taille_Txt	CNW	Entier sur 4 octets$Chaîne	la rubrique Taille_Txt a pour nouveau type Entier sur 4 octets
+Claviers_Hauts		TAR	782	nouvelle taille enregistrement : 782
+Claviers_Hauts	Taille_Txt	CNW	Entier sur 4 octets$Chaîne	la rubrique Taille_Txt a pour nouveau type Entier sur 4 octets
+Claviers_Com		TAR	514	nouvelle taille enregistrement : 514
+Claviers_Com	Taille_Txt	CNW	Entier sur 4 octets$Chaîne	la rubrique Taille_Txt a pour nouveau type Entier sur 4 octets
+Claviers_Menu		TAR	514	nouvelle taille enregistrement : 514
+Claviers_Menu	Taille_Txt	CNW	Entier sur 4 octets$Chaîne	la rubrique Taille_Txt a pour nouveau type Entier sur 4 octets

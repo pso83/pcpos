@@ -1,0 +1,47 @@
+//MO006-007.TXT ANA00006 TO ANA00007
+Claviers_Bas		TAR	829	nouvelle taille enregistrement : 829
+Claviers_Bas	OptTxt_Gras	CNW	Booléen$Chaîne	la rubrique OptTxt_Gras a pour nouveau type Booléen
+Claviers_Bas	OptTxt_Italique	CNW	Booléen$Chaîne	la rubrique OptTxt_Italique a pour nouveau type Booléen
+Claviers_Bas	OptTxt_Souligne	CNW	Booléen$Chaîne	la rubrique OptTxt_Souligne a pour nouveau type Booléen
+Claviers_Bas	OptTxt_Invisible	CNW	Booléen$Chaîne	la rubrique OptTxt_Invisible a pour nouveau type Booléen
+Claviers_Bas	Image_Btn	CNW	Mémo binaire$Chaîne	la rubrique Image_Btn a pour nouveau type Mémo image
+Claviers_Bas	Pos_X	CNW	Entier sur 4 octets$Chaîne	la rubrique Pos_X a pour nouveau type Entier sur 4 octets
+Claviers_Bas	Pos_Y	CNW	Entier sur 4 octets$Chaîne	la rubrique Pos_Y a pour nouveau type Entier sur 4 octets
+Claviers_Bas	Hauteur_Btn	CNW	Entier sur 4 octets$Chaîne	la rubrique Hauteur_Btn a pour nouveau type Entier sur 4 octets
+Claviers_Bas	Largeur_Btn	CNW	Entier sur 4 octets$Chaîne	la rubrique Largeur_Btn a pour nouveau type Entier sur 4 octets
+Claviers_Bas	RVB_Rouge_F	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Rouge_F a pour nouveau type Entier sur 4 octets
+Claviers_Bas	RVB_Vert_F	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Vert_F a pour nouveau type Entier sur 4 octets
+Claviers_Bas	RVB_Bleu_F	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Bleu_F a pour nouveau type Entier sur 4 octets
+Claviers_Hauts		TAR	829	nouvelle taille enregistrement : 829
+Claviers_Hauts	OptTxt_Gras	CNW	Booléen$Chaîne	la rubrique OptTxt_Gras a pour nouveau type Booléen
+Claviers_Hauts	OptTxt_Italique	CNW	Booléen$Chaîne	la rubrique OptTxt_Italique a pour nouveau type Booléen
+Claviers_Hauts	OptTxt_Souligne	CNW	Booléen$Chaîne	la rubrique OptTxt_Souligne a pour nouveau type Booléen
+Claviers_Hauts	OptTxt_Invisible	CNW	Booléen$Chaîne	la rubrique OptTxt_Invisible a pour nouveau type Booléen
+Claviers_Hauts	Image_Btn	CNW	Mémo binaire$Chaîne	la rubrique Image_Btn a pour nouveau type Mémo image
+Claviers_Hauts	Pos_X	CNW	Entier sur 4 octets$Chaîne	la rubrique Pos_X a pour nouveau type Entier sur 4 octets
+Claviers_Hauts	Pos_Y	CNW	Entier sur 4 octets$Chaîne	la rubrique Pos_Y a pour nouveau type Entier sur 4 octets
+Claviers_Hauts	Hauteur_Btn	CNW	Entier sur 4 octets$Chaîne	la rubrique Hauteur_Btn a pour nouveau type Entier sur 4 octets
+Claviers_Hauts	Largeur_Btn	CNW	Entier sur 4 octets$Chaîne	la rubrique Largeur_Btn a pour nouveau type Entier sur 4 octets
+Claviers_Hauts	RVB_Rouge_F	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Rouge_F a pour nouveau type Entier sur 4 octets
+Claviers_Hauts	RVB_Vert_F	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Vert_F a pour nouveau type Entier sur 4 octets
+Claviers_Hauts	RVB_Bleu_F	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Bleu_F a pour nouveau type Entier sur 4 octets
+Claviers_Com		TAR	561	nouvelle taille enregistrement : 561
+Claviers_Com	OptTxt_Gras	CNW	Booléen$Chaîne	la rubrique OptTxt_Gras a pour nouveau type Booléen
+Claviers_Com	OptTxt_Italique	CNW	Booléen$Chaîne	la rubrique OptTxt_Italique a pour nouveau type Booléen
+Claviers_Com	OptTxt_Souligne	CNW	Booléen$Chaîne	la rubrique OptTxt_Souligne a pour nouveau type Booléen
+Claviers_Com	OptTxt_Invisible	CNW	Booléen$Chaîne	la rubrique OptTxt_Invisible a pour nouveau type Booléen
+Claviers_Com	Image_Btn	CNW	Mémo binaire$Chaîne	la rubrique Image_Btn a pour nouveau type Mémo image
+Claviers_Com	Pos_X	CNW	Entier sur 4 octets$Chaîne	la rubrique Pos_X a pour nouveau type Entier sur 4 octets
+Claviers_Com	Pos_Y	CNW	Entier sur 4 octets$Chaîne	la rubrique Pos_Y a pour nouveau type Entier sur 4 octets
+Claviers_Com	Hauteur_Btn	CNW	Entier sur 4 octets$Chaîne	la rubrique Hauteur_Btn a pour nouveau type Entier sur 4 octets
+Claviers_Com	Largeur_Btn	CNW	Entier sur 4 octets$Chaîne	la rubrique Largeur_Btn a pour nouveau type Entier sur 4 octets
+Claviers_Menu		TAR	561	nouvelle taille enregistrement : 561
+Claviers_Menu	OptTxt_Gras	CNW	Booléen$Chaîne	la rubrique OptTxt_Gras a pour nouveau type Booléen
+Claviers_Menu	OptTxt_Italique	CNW	Booléen$Chaîne	la rubrique OptTxt_Italique a pour nouveau type Booléen
+Claviers_Menu	OptTxt_Souligne	CNW	Booléen$Chaîne	la rubrique OptTxt_Souligne a pour nouveau type Booléen
+Claviers_Menu	OptTxt_Invisible	CNW	Booléen$Chaîne	la rubrique OptTxt_Invisible a pour nouveau type Booléen
+Claviers_Menu	Image_Btn	CNW	Mémo binaire$Chaîne	la rubrique Image_Btn a pour nouveau type Mémo image
+Claviers_Menu	Pos_X	CNW	Entier sur 4 octets$Chaîne	la rubrique Pos_X a pour nouveau type Entier sur 4 octets
+Claviers_Menu	Pos_Y	CNW	Entier sur 4 octets$Chaîne	la rubrique Pos_Y a pour nouveau type Entier sur 4 octets
+Claviers_Menu	Hauteur_Btn	CNW	Entier sur 4 octets$Chaîne	la rubrique Hauteur_Btn a pour nouveau type Entier sur 4 octets
+Claviers_Menu	Largeur_Btn	CNW	Entier sur 4 octets$Chaîne	la rubrique Largeur_Btn a pour nouveau type Entier sur 4 octets

@@ -1,0 +1,3 @@
+//MO030-031.TXT ANA00030 TO ANA00031
+Ligne_Ticket		TAR	515	nouvelle taille enregistrement : 515
+Ligne_Ticket	Qte	RUB+		Qte est une nouvelle rubrique

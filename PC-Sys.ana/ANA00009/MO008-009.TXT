@@ -1,0 +1,9 @@
+//MO008-009.TXT ANA00008 TO ANA00009
+Claviers_Bas		TAR	641	nouvelle taille enregistrement : 641
+Claviers_Bas	RVB_Rouge_T	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Rouge_T a pour nouveau type Entier sur 4 octets
+Claviers_Bas	RVB_Vert_T	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Vert_T a pour nouveau type Entier sur 4 octets
+Claviers_Bas	RVB_Bleu_T	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Bleu_T a pour nouveau type Entier sur 4 octets
+Claviers_Hauts		TAR	641	nouvelle taille enregistrement : 641
+Claviers_Hauts	RVB_Rouge_T	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Rouge_T a pour nouveau type Entier sur 4 octets
+Claviers_Hauts	RVB_Vert_T	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Vert_T a pour nouveau type Entier sur 4 octets
+Claviers_Hauts	RVB_Bleu_T	CNW	Entier sur 4 octets$Chaîne	la rubrique RVB_Bleu_T a pour nouveau type Entier sur 4 octets

@@ -1,0 +1,149 @@
+//MO029-030.TXT ANA00029 TO ANA00030
+Claviers_Bas		TAR	692	nouvelle taille enregistrement : 692
+Claviers_Bas		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Claviers_Bas		FCNX+	Connexion à '127.0.0.1'	
+Tickets		TAR	474	nouvelle taille enregistrement : 474
+Tickets		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Tickets		FCNX+	Connexion à '127.0.0.1'	
+Ligne_Ticket		TAR	511	nouvelle taille enregistrement : 511
+Ligne_Ticket		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Ligne_Ticket		FCNX+	Connexion à '127.0.0.1'	
+Cloture		TAR	38	nouvelle taille enregistrement : 38
+Cloture		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Cloture		FCNX+	Connexion à '127.0.0.1'	
+Liste_Claviers_CB		TAR	231	nouvelle taille enregistrement : 231
+Liste_Claviers_CB		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Liste_Claviers_CB		FCNX+	Connexion à '127.0.0.1'	
+Articles		TAR	384	nouvelle taille enregistrement : 384
+Articles		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Articles		FCNX+	Connexion à '127.0.0.1'	
+Groupes_Article		TAR	72	nouvelle taille enregistrement : 72
+Groupes_Article		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Groupes_Article		FCNX+	Connexion à '127.0.0.1'	
+Familles_Article		TAR	72	nouvelle taille enregistrement : 72
+Familles_Article		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Familles_Article		FCNX+	Connexion à '127.0.0.1'	
+SousFamille_Article		TAR	72	nouvelle taille enregistrement : 72
+SousFamille_Article		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+SousFamille_Article		FCNX+	Connexion à '127.0.0.1'	
+TVA		TAR	114	nouvelle taille enregistrement : 114
+TVA		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+TVA		FCNX+	Connexion à '127.0.0.1'	
+Menus		TAR	76	nouvelle taille enregistrement : 76
+Menus		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Menus		FCNX+	Connexion à '127.0.0.1'	
+Pages_Menus		TAR	178	nouvelle taille enregistrement : 178
+Pages_Menus		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Pages_Menus		FCNX+	Connexion à '127.0.0.1'	
+Fidelite		TAR	162	nouvelle taille enregistrement : 162
+Fidelite		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Fidelite		FCNX+	Connexion à '127.0.0.1'	
+Formules		TAR	72	nouvelle taille enregistrement : 72
+Formules		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Formules		FCNX+	Connexion à '127.0.0.1'	
+Composition_Formules		TAR	135	nouvelle taille enregistrement : 135
+Composition_Formules		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Composition_Formules		FCNX+	Connexion à '127.0.0.1'	
+Config_TexteElements		TAR	320	nouvelle taille enregistrement : 320
+Config_TexteElements		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Config_TexteElements		FCNX+	Connexion à '127.0.0.1'	
+Fonctions		TAR	174	nouvelle taille enregistrement : 174
+Fonctions		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Fonctions		FCNX+	Connexion à '127.0.0.1'	
+Claviers_Hauts		TAR	692	nouvelle taille enregistrement : 692
+Claviers_Hauts		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Claviers_Hauts		FCNX+	Connexion à '127.0.0.1'	
+Liste_Claviers_CH		TAR	231	nouvelle taille enregistrement : 231
+Liste_Claviers_CH		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Liste_Claviers_CH		FCNX+	Connexion à '127.0.0.1'	
+Liste_Claviers_Com		TAR	231	nouvelle taille enregistrement : 231
+Liste_Claviers_Com		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Liste_Claviers_Com		FCNX+	Connexion à '127.0.0.1'	
+Liste_Claviers_Menu		TAR	231	nouvelle taille enregistrement : 231
+Liste_Claviers_Menu		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Liste_Claviers_Menu		FCNX+	Connexion à '127.0.0.1'	
+Commentaires		TAR	76	nouvelle taille enregistrement : 76
+Commentaires		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Commentaires		FCNX+	Connexion à '127.0.0.1'	
+Claviers_Com		TAR	565	nouvelle taille enregistrement : 565
+Claviers_Com		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Claviers_Com		FCNX+	Connexion à '127.0.0.1'	
+Claviers_Menu		TAR	565	nouvelle taille enregistrement : 565
+Claviers_Menu		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Claviers_Menu		FCNX+	Connexion à '127.0.0.1'	
+Style_Boutons		TAR	263	nouvelle taille enregistrement : 263
+Style_Boutons		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Style_Boutons		FCNX+	Connexion à '127.0.0.1'	
+Articles_Fidelite		TAR	127	nouvelle taille enregistrement : 127
+Articles_Fidelite		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Articles_Fidelite		FCNX+	Connexion à '127.0.0.1'	
+Affichage_Tampons_Fidelite		TAR	30	nouvelle taille enregistrement : 30
+Affichage_Tampons_Fidelite		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Affichage_Tampons_Fidelite		FCNX+	Connexion à '127.0.0.1'	
+Configuration		TAR	296	nouvelle taille enregistrement : 296
+Configuration		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Configuration		FCNX+	Connexion à '127.0.0.1'	
+Modes_Fonction		TAR	400	nouvelle taille enregistrement : 400
+Modes_Fonction		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Modes_Fonction		FCNX+	Connexion à '127.0.0.1'	
+Parametres_Applications		TAR	400	nouvelle taille enregistrement : 400
+Parametres_Applications		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Parametres_Applications		FCNX+	Connexion à '127.0.0.1'	
+Versionnage		TAR	119	nouvelle taille enregistrement : 119
+Versionnage		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Versionnage		FCNX+	Connexion à '127.0.0.1'	
+Super_Utilisateurs		TAR	29	nouvelle taille enregistrement : 29
+Super_Utilisateurs		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Super_Utilisateurs		FCNX+	Connexion à '127.0.0.1'	
+Parametres_Connexion_db		TAR	225	nouvelle taille enregistrement : 225
+Parametres_Connexion_db		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Parametres_Connexion_db		FCNX+	Connexion à '127.0.0.1'	
+Memoire_Elements		TAR	71	nouvelle taille enregistrement : 71
+Memoire_Elements		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Memoire_Elements		FCNX+	Connexion à '127.0.0.1'	
+Utilisateurs		TAR	541	nouvelle taille enregistrement : 541
+Utilisateurs		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Utilisateurs		FCNX+	Connexion à '127.0.0.1'	
+Info_Licence		TAR	1745	nouvelle taille enregistrement : 1745
+Info_Licence		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Info_Licence		FCNX+	Connexion à '127.0.0.1'	
+Fiches_Produit		TAR	488	nouvelle taille enregistrement : 488
+Fiches_Produit		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Fiches_Produit		FCNX+	Connexion à '127.0.0.1'	
+Categories		TAR	68	nouvelle taille enregistrement : 68
+Categories		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Categories		FCNX+	Connexion à '127.0.0.1'	
+SousFamilles		TAR	68	nouvelle taille enregistrement : 68
+SousFamilles		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+SousFamilles		FCNX+	Connexion à '127.0.0.1'	
+Lieux_Stockage		TAR	118	nouvelle taille enregistrement : 118
+Lieux_Stockage		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Lieux_Stockage		FCNX+	Connexion à '127.0.0.1'	
+Familles		TAR	68	nouvelle taille enregistrement : 68
+Familles		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Familles		FCNX+	Connexion à '127.0.0.1'	
+Produits		TAR	535	nouvelle taille enregistrement : 535
+Produits		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Produits		FCNX+	Connexion à '127.0.0.1'	
+Groupes		TAR	68	nouvelle taille enregistrement : 68
+Groupes		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Groupes		FCNX+	Connexion à '127.0.0.1'	
+Fournisseurs		TAR	485	nouvelle taille enregistrement : 485
+Fournisseurs		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Fournisseurs		FCNX+	Connexion à '127.0.0.1'	
+Contenances		TAR	68	nouvelle taille enregistrement : 68
+Contenances		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Contenances		FCNX+	Connexion à '127.0.0.1'	
+Fiche_Recette		TAR	225	nouvelle taille enregistrement : 225
+Fiche_Recette		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Fiche_Recette		FCNX+	Connexion à '127.0.0.1'	
+Salles_Autorisees		TAR	119	nouvelle taille enregistrement : 119
+Salles_Autorisees		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Salles_Autorisees		FCNX+	Connexion à '127.0.0.1'	
+Salles		TAR	170	nouvelle taille enregistrement : 170
+Salles		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+Salles		FCNX+	Connexion à '127.0.0.1'	
+ProfilsUtilisateurs		EXT	FIC	nouvelle extension FIC
+ProfilsUtilisateurs		TAR	186	nouvelle taille enregistrement : 186
+ProfilsUtilisateurs		TYPE		Le type du fichier est passé de Connecteur Natif / Autre Connecteur OLE DB à HFSQL
+ProfilsUtilisateurs		FCNX+	Connexion à '127.0.0.1'	

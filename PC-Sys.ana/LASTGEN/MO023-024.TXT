@@ -1,0 +1,11 @@
+//MO023-024.TXT ANA00023 TO ANA00024
+Claviers_Bas		TAR	680	nouvelle taille enregistrement : 680
+Claviers_Bas	Nom_Btn	TAI+	51	la rubrique Nom_Btn a comme nouvelle taille 51 au lieu de 0
+Pages_Menus		TAR	169	nouvelle taille enregistrement : 169
+Pages_Menus	NomComplet_Menu	TAI+	51	la rubrique NomComplet_Menu a comme nouvelle taille 51 au lieu de 0
+Claviers_Hauts		TAR	680	nouvelle taille enregistrement : 680
+Claviers_Hauts	Nom_Btn	TAI+	51	la rubrique Nom_Btn a comme nouvelle taille 51 au lieu de 0
+Claviers_Com		TAR	554	nouvelle taille enregistrement : 554
+Claviers_Com	Nom_Btn	TAI+	51	la rubrique Nom_Btn a comme nouvelle taille 51 au lieu de 0
+Claviers_Menu		TAR	554	nouvelle taille enregistrement : 554
+Claviers_Menu	Nom_Btn	TAI+	51	la rubrique Nom_Btn a comme nouvelle taille 51 au lieu de 0

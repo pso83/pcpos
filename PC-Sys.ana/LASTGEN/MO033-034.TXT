@@ -1,0 +1,3 @@
+//MO033-034.TXT ANA00033 TO ANA00034
+Utilisateurs	ClavierGauche_Base	NNR	ClavierHaut_Base	ATTENTION : la clé ClavierHaut_Base a pour nouveau nom ClavierGauche_Base
+Utilisateurs	ClavierDroite_Base	NNR	ClavierBas_Base	ATTENTION : la clé ClavierBas_Base a pour nouveau nom ClavierDroite_Base

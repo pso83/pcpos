@@ -1,0 +1,5 @@
+//MO032-033.TXT ANA00032 TO ANA00033
+Claviers_Droites		TAR	641	nouvelle taille enregistrement : 641
+Claviers_Droites	Nom_Btn	TAI-	51	la rubrique Nom_Btn a comme nouvelle taille 0 au lieu de 51
+Claviers_Gauches		TAR	641	nouvelle taille enregistrement : 641
+Claviers_Gauches	Nom_Btn	TAI-	51	la rubrique Nom_Btn a comme nouvelle taille 0 au lieu de 51

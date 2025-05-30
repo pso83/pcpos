@@ -1,0 +1,19 @@
+//MO004-005.TXT ANA00004 TO ANA00005
+Modes_Fonction		NFI		nouveau fichier
+Parametres_Applications		NFI		nouveau fichier
+Versionnage		NFI		nouveau fichier
+Super_Utilisateurs		NFI		nouveau fichier
+Parametres_Connexion_db		NFI		nouveau fichier
+Memoire_Elements		NFI		nouveau fichier
+Utilisateurs		NFI		nouveau fichier
+Info_Licence		NFI		nouveau fichier
+Caisse		GRP+		
+Commun		GRP+		
+Gestion de stock		GRP+		
+Modes_Fonction		FRN		
+Parametres_Applications		FRN		
+Versionnage		FRN		
+Super_Utilisateurs		FRN		
+Memoire_Elements		FRN		
+Utilisateurs		FRN		
+Info_Licence		FRN		

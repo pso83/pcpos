@@ -1,0 +1,113 @@
+//MO034-035.TXT ANA00034 TO ANA00035
+Articles_Majores		NFI		nouveau fichier
+Ticket_En_Cours		NFI		nouveau fichier
+Ticket_Cloture		NFI		nouveau fichier
+Table_En_Cours		NFI		nouveau fichier
+Table_Cloturee		NFI		nouveau fichier
+Table_En_Commande		NFI		nouveau fichier
+Table_Annulee		NFI		nouveau fichier
+Ticket_Attente		NFI		nouveau fichier
+Ticket_Annule		NFI		nouveau fichier
+Ticket_Devis		NFI		nouveau fichier
+Compte_En_Cours		NFI		nouveau fichier
+Compte_En_Commande		NFI		nouveau fichier
+Compte_Encaisse		NFI		nouveau fichier
+Compte_Annule		NFI		nouveau fichier
+Client_Selectionne		NFI		nouveau fichier
+Total_Comptes		NFI		nouveau fichier
+Total_Kdo_Avoirs		NFI		nouveau fichier
+Total_Annulations		NFI		nouveau fichier
+Total_Remises_Majo_Offerts		NFI		nouveau fichier
+Total_Reglements		NFI		nouveau fichier
+Total_TVA		NFI		nouveau fichier
+Total_Ventes		NFI		nouveau fichier
+Ventes		NFI		nouveau fichier
+Reglements		NFI		nouveau fichier
+Lignes_TVA		NFI		nouveau fichier
+Lignes_Reglements		NFI		nouveau fichier
+Articles_Annules		NFI		nouveau fichier
+Liste_Tickets_Clotures		NFI		nouveau fichier
+Entete		NFI		nouveau fichier
+Factures		NFI		nouveau fichier
+Tickets		NFI		nouveau fichier
+Proformas		NFI		nouveau fichier
+PME		NFI		nouveau fichier
+Liste_Attentes		NFI		nouveau fichier
+Liste_Tables_Occupees		NFI		nouveau fichier
+Liste_Tables_Cloturees		NFI		nouveau fichier
+Liste_Comptes_Occupes		NFI		nouveau fichier
+Liste_Comptes_Clotures		NFI		nouveau fichier
+Imp_Note		NFI		nouveau fichier
+Imp_Prepa		NFI		nouveau fichier
+Articles_Offerts		NFI		nouveau fichier
+Articles_Remises		NFI		nouveau fichier
+Compteur_Cloture_Semaine		NFI		nouveau fichier
+Compteur_Cloture_Service		NFI		nouveau fichier
+Compteur_Cloture_Annee		NFI		nouveau fichier
+Compteur_Cloture_Mois		NFI		nouveau fichier
+Compteur_Cloture_Jour		NFI		nouveau fichier
+Configuration_Cloture		NFI		nouveau fichier
+Liste_Clotures		NFI		nouveau fichier
+Fichiers_Cloture		NFI		nouveau fichier
+Tickets		FIC-	Tickets	Fichier supprimé Tickets
+Contrainte_Tickets_Ligne_Ticket		DEL	Tickets (Num_Ticket) et Ligne_Ticket (Num_Ticket)	Liaison supprimée entre les fichiers Tickets (Num_Ticket) et Ligne_Ticket (Num_Ticket)
+Connexion à '127.0.0.1'		CNX+		
+Claviers		GRP+		
+Programmation		GRP+		
+Vente_Tickets		GRP+		
+Ventes_Tables		GRP+		
+Ventes_Compte		GRP+		
+Outils_Configuration		GRP+		
+Outils_Gestion		GRP+		
+Statistiques		GRP+		
+Outils_Ventes		GRP+		
+Ticket_En_Cours		FRN		
+Ticket_Cloture		FRN		
+Table_En_Cours		FRN		
+Table_Cloturee		FRN		
+Table_En_Commande		FRN		
+Table_Annulee		FRN		
+Ticket_Attente		FRN		
+Ticket_Annule		FRN		
+Ticket_Devis		FRN		
+Compte_En_Cours		FRN		
+Compte_En_Commande		FRN		
+Compte_Encaisse		FRN		
+Compte_Annule		FRN		
+Client_Selectionne		FRN		
+Total_Comptes		FRN		
+Total_Kdo_Avoirs		FRN		
+Total_Annulations		FRN		
+Total_Remises_Majo_Offerts		FRN		
+Total_Reglements		FRN		
+Total_TVA		FRN		
+Total_Ventes		FRN		
+Ventes		FRN		
+Reglements		FRN		
+Lignes_TVA		FRN		
+Lignes_Reglements		FRN		
+Articles_Annules		FRN		
+Liste_Tickets_Clotures		FRN		
+Entete		FRN		
+Factures		FRN		
+Tickets		FRN		
+Proformas		FRN		
+PME		FRN		
+Liste_Attentes		FRN		
+Liste_Tables_Occupees		FRN		
+Liste_Tables_Cloturees		FRN		
+Liste_Comptes_Occupes		FRN		
+Liste_Comptes_Clotures		FRN		
+Imp_Note		FRN		
+Imp_Prepa		FRN		
+Articles_Majores		FRN		
+Articles_Offerts		FRN		
+Articles_Remises		FRN		
+Compteur_Cloture_Semaine		FRN		
+Compteur_Cloture_Service		FRN		
+Compteur_Cloture_Annee		FRN		
+Compteur_Cloture_Mois		FRN		
+Compteur_Cloture_Jour		FRN		
+Configuration_Cloture		FRN		
+Liste_Clotures		FRN		
+Fichiers_Cloture		FRN		

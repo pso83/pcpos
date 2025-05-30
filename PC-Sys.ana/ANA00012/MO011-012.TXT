@@ -1,0 +1,4 @@
+//MO011-012.TXT ANA00011 TO ANA00012
+Utilisateurs		TAR	541	nouvelle taille enregistrement : 541
+Utilisateurs	GUID	RUB+		GUID est une nouvelle clé
+Utilisateurs	Code_User	RUB-		la rubrique Code_User est supprimée

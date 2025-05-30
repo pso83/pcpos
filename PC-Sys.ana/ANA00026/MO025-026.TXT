@@ -1,0 +1,12 @@
+//MO025-026.TXT ANA00025 TO ANA00026
+Profils		TAR	119	nouvelle taille enregistrement : 119
+Profils	Autorise_Edition_Reglements	RUB+		Autorise_Edition_Reglements est une nouvelle rubrique
+Profils	Autorise_Edition_Vendeur	RUB+		Autorise_Edition_Vendeur est une nouvelle rubrique
+Profils	Autorise_Edition_TousVendeurs	RUB+		Autorise_Edition_TousVendeurs est une nouvelle rubrique
+Profils	Autorise_Edition_Ventes	RUB+		Autorise_Edition_Ventes est une nouvelle rubrique
+Profils	Autorise_Edition_Stat	RUB+		Autorise_Edition_Stat est une nouvelle rubrique
+Profils	Autorise_Cloture_Service	RUB+		Autorise_Cloture_Service est une nouvelle rubrique
+Profils	Autorise_Cloture_Jour	RUB+		Autorise_Cloture_Jour est une nouvelle rubrique
+Profils	Autorise_Cloture_Semaine	RUB+		Autorise_Cloture_Semaine est une nouvelle rubrique
+Profils	Autorise_Cloture_Mois	RUB+		Autorise_Cloture_Mois est une nouvelle rubrique
+Profils	Autorise_Cloture_Annee	RUB+		Autorise_Cloture_Annee est une nouvelle rubrique
